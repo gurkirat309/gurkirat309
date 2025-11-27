@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gurkirat Singh jaggi</h1>
+<h1 align="center">Hi 👋, I'm Gurkirat Singh </h1>
 <h3 align="center">A passionate ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **ML,FastAPI,Flask,SQL,GenAI,LangChain,LangGraph**
