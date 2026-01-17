@@ -1,71 +1,210 @@
-<h1 align="center">Hi 👋, I'm Gurkirat Singh</h1>
-<h3 align="center">AI Developer | 4× Hackathon Winner | Machine Learning Engineer</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent systems, deploying scalable AI solutions, and solving real-world problems with data & algorithms.
-</p>
+# 🎯 Gurkirat Singh
+
+### AI Developer × Hackathon Champion × Chess Strategist
+
+*Turning AI research into production systems that actually work*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurkirat-singh-70916a2b8/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaggigs309@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=gurkiratsingh&color=blueviolet&style=for-the-badge)](https://github.com/gurkiratsingh)
+
+</div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
-- 🏆 **4× Hackathon Winner** with hands-on experience building production-grade AI solutions  
-- 🤖 AI Developer focused on **Machine Learning, Generative AI & System Design**  
-- 🚀 Experienced in turning models into **deployable APIs & applications**  
-- 📚 Constantly upgrading skills in modern AI frameworks and system architecture  
-- ♟ State-level Chess Player — strong believer in strategy, patience, and precision  
+
+🏆 **4× Hackathon Winner** - Built and shipped AI solutions under pressure  
+🤖 **AI/ML Engineer** - Specializing in production-grade deployments  
+🚀 **Full-Stack AI** - From model training to scalable APIs  
+♟️ **State Chess Player** - Strategic thinking on and off the board  
+📈 **Continuous Learner** - Currently diving deep into LLMs & Agents
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Gurkirat Singh"
+        self.role = "AI Developer"
+        self.location = "India"
+        self.achievements = {"hackathons_won": 4}
+        
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ + Research Papers",
+            "afternoon": "💻 Building AI Solutions",
+            "evening": "🚀 Deploying Models",
+            "night": "♟️ Chess + Learning"
+        }
+        
+    def current_mission(self):
+        return "Making AI accessible and deployable"
+```
+
+<br clear="right"/>
 
 ---
 
-### 🛠 Tech Stack
-**Languages & Core**
-- Python, SQL, Java, C
+## 🔥 GitHub Stats & Activity
 
-**AI & Machine Learning**
-- Scikit-learn, PyTorch, TensorFlow, OpenCV, Pandas
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 
-**Backend & Deployment**
-- FastAPI, Flask, Django, REST APIs
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-**Databases**
-- MySQL, PostgreSQL
+</div>
 
-**Tools & Platforms**
-- Git, Linux, Figma
+<div align="center">
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurkiratsingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://github.com/gurkiratsingh)
 
-### 🌱 Currently Exploring
-- Generative AI & LLM Applications  
-- LangChain & LangGraph  
-- AI Pipelines & Automation  
-- Model Optimization & Deployment Strategies  
+</div>
 
 ---
 
-### 💬 Ask Me About
-- Machine Learning & AI Projects  
-- API Development with FastAPI / Flask  
-- Model Deployment & Optimization  
-- Real-world Hackathon Strategies  
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ⚡ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Contact Me
-- **Email:** jaggigs309@gmail.com  
+## 🎯 Current Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Building With
+- 🤖 **LLMs & Generative AI**
+  - Prompt engineering & optimization
+  - RAG systems & fine-tuning
+  
+- 🔗 **LangChain & LangGraph**
+  - Multi-agent workflows
+  - Complex AI pipelines
+  
+- ⚡ **Model Deployment**
+  - API optimization
+  - Production ML systems
+
+</td>
+<td width="50%">
+
+### 📚 Learning & Exploring
+```yaml
+current_learning:
+  - Advanced LLM techniques
+  - AI agent architectures
+  - Model optimization strategies
+  - Scalable ML infrastructure
+  
+next_on_list:
+  - MLOps best practices
+  - Distributed training
+  - Edge AI deployment
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/gurkirat-singh-70916a2b8/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-</p>
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🎖️ Achievement | 📊 Impact |
+|----------------|-----------|
+| 🥇 **4× Hackathon Winner** | Built production-ready AI solutions in 24-48 hours |
+| ♟️ **State-level Chess Player** | Strategic thinking & pattern recognition |
+| 🚀 **Deployed AI Systems** | Real-world ML models serving users |
+| 💻 **Open Source Contributor** | Contributing to the AI community |
+
+</div>
 
 ---
 
-> Can predict your next move in chess and life both(just want some training time)
+## 📊 Weekly Development Breakdown
 
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 45 mins  ███████████████░░░░░░  65.2%
+SQL           3 hrs 20 mins  ████░░░░░░░░░░░░░░░░░  17.1%
+Markdown      1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░░   9.0%
+YAML          1 hr 10 mins   █░░░░░░░░░░░░░░░░░░░░   6.0%
+Other         0 hrs 30 mins  ░░░░░░░░░░░░░░░░░░░░░   2.7%
+```
+<!--END_SECTION:waka-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 💬 Let's Talk About
+
+<div align="center">
+
+🤖 Machine Learning & AI Projects | 🚀 Model Deployment & Optimization | ⚡ FastAPI & Production APIs | 🏆 Hackathon Strategies & War Stories | ♟️ Chess & Strategic Thinking
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+**Got an exciting AI project? Let's build something amazing together!**
+
+[![Email](https://img.shields.io/badge/Email-jaggigs309@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaggigs309@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurkirat-singh-70916a2b8/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"The best AI model is the one that ships to production and solves real problems."*
+
+### ♟️ Fun Fact
+
+> Can predict your next move in chess and in life... just need some training data! 🎯
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
