@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
@@ -22,25 +22,16 @@ class AIEngineer:
     def __init__(self):
         self.name = "Gurkirat Singh"
         self.role = "AI Developer"
-        self.location = "India 🇮🇳"
         
     def expertise(self):
         return {
-            "AI/ML": ["PyTorch", "TensorFlow"],
-            "Backend": ["FastAPI", "Flask"],
-            "Databases": ["MySQL", "PostgreSQL"],
-            "Languages": ["Python", "SQL", "Java"]
+            "AI/ML": ["PyTorch", "TensorFlow","Scikit-learn"],
+            "Backend": ["FastAPI", "Flask", "Django"]
         }
     
     def current_focus(self):
-        return [
-            "🤖 Generative AI & LLMs",
-            "🔗 LangChain & LangGraph",
-            "⚡ Model Optimization"
-        ]
+        return ["🤖 LLMs", "🔗 LangChain", "Model Optimization"]
 ```
-
-<br>
 
 🏆 **4× Hackathon Winner** | ♟️ **State-level Chess Player**
 
