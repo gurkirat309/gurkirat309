@@ -25,12 +25,12 @@ class AIEngineer:
         
     def expertise(self):
         return {
-            "AI/ML": ["PyTorch", "TensorFlow","Scikit-learn"],
-            "Backend": ["FastAPI", "Flask", "Django"]
+            "AI/ML": ["PyTorch", "TensorFlow"],
+            "Backend": ["FastAPI", "Flask"]
         }
     
     def current_focus(self):
-        return ["🤖 LLMs", "🔗 LangChain", "Model Optimization"]
+        return ["🤖 LLMs", "🔗 LangChain"]
 ```
 
 🏆 **4× Hackathon Winner** | ♟️ **State-level Chess Player**
