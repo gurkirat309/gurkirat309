@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
@@ -26,18 +26,17 @@ class AIEngineer:
         
     def expertise(self):
         return {
-            "AI/ML": ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "Backend": ["FastAPI", "Flask", "Django"],
+            "AI/ML": ["PyTorch", "TensorFlow"],
+            "Backend": ["FastAPI", "Flask"],
             "Databases": ["MySQL", "PostgreSQL"],
-            "Languages": ["Python", "SQL", "Java", "C"]
+            "Languages": ["Python", "SQL", "Java"]
         }
     
     def current_focus(self):
         return [
             "🤖 Generative AI & LLMs",
             "🔗 LangChain & LangGraph",
-            "⚡ Model Optimization",
-            "🚀 Production ML Systems"
+            "⚡ Model Optimization"
         ]
 ```
 
