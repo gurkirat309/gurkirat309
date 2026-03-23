@@ -43,7 +43,7 @@ class AIEngineer:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gurkirat309&theme=neon&hide_border=true&cache_seconds=86400" />
@@ -53,13 +53,13 @@ class AIEngineer:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## 🐍 Contribution Snake
+## Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gurkirat309/gurkirat309/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🧠 AI Focus
+## AI Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-Advanced-blueviolet?style=for-the-badge" />
@@ -107,30 +107,30 @@ class AIEngineer:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-**🔥 Building With**
+**Building With**
 
-🤖 **LLMs & Generative AI**  
-🔗 **LangChain & LangGraph**  
-⚡ **AI Agent Workflows**  
-🚀 **Model Deployment**  
-📊 **ML Pipeline Automation**
+ **LLMs & Generative AI**  
+ **LangChain & LangGraph**  
+ **AI Agent Workflows**  
+ **Model Deployment**  
+ **ML Pipeline Automation**
 
 </td>
 <td align="center" width="50%">
 
-**📚 Learning Path**
+ **Learning Path** 
 
-✨ Advanced Prompt Engineering  
-🏗️ Scalable AI Architecture  
-🔧 Model Optimization  
-💻 MLOps Best Practices  
-🌐 Production ML Systems
+ Advanced Prompting 
+ Scalable AI Architecture  
+ Model Optimization  
+ MLOps Best Practices  
+ Production ML Systems
 
 </td>
 </tr>
@@ -142,19 +142,19 @@ class AIEngineer:
 
 <p align="center">
   <strong>Open to collaborations on AI/ML projects!</strong><br><br>
-  💼 Machine Learning & AI Development<br>
-  ⚡ API Development & Deployment<br>
-  🏆 Hackathon Strategies<br>
-  ♟️ Chess & Strategic Thinking
+   Machine Learning & AI Development<br>
+   API Development & Deployment<br>
+   Hackathon Strategies<br>
+  Chess & Strategic Thinking
 </p>
 
 ---
 
 <div align="center">
 
-### 💭 *"The best AI model is the one that ships to production"*
+###  *"The best AI model is the one that ships to production"*
 
-### ♟️ Can predict your next move in chess and in life... just need some training data! 🎯
+###  Can predict your next move in chess and in life... just need some training data! 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
