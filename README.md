@@ -41,13 +41,36 @@ class AIEngineer:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gurkirat309&theme=neon&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gurkirat309&theme=neon&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gurkirat309/gurkirat309/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🧠 AI Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Advanced-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Building-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production%20AI-Active-critical?style=for-the-badge" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -81,6 +104,8 @@ class AIEngineer:
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 🎯 Currently Exploring
 
